@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\ProductApplication.csproj": {}
+    "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\ProductApplication.csproj": {}
   },
   "projects": {
-    "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\ProductApplication.csproj": {
+    "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\ProductApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\ProductApplication.csproj",
+        "projectUniqueName": "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\ProductApplication.csproj",
         "projectName": "ProductApplication",
-        "projectPath": "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\ProductApplication.csproj",
+        "projectPath": "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\ProductApplication.csproj",
         "packagesPath": "C:\\Users\\vignesh.kumaran\\.nuget\\packages\\",
-        "outputPath": "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\obj\\",
+        "outputPath": "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

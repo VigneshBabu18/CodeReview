@@ -1,37 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\API\\ProductApplication\\ProductApplication\\",
+  "WorkspaceRootPath": "D:\\GitAssesment\\CodeReview\\ProductApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|d:\\api\\productapplication\\productapplication\\productapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|d:\\gitassesment\\codereview\\productapplication\\productapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|solutionrelative:productapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|d:\\api\\productapplication\\productapplication\\productapplication\\productapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|d:\\gitassesment\\codereview\\productapplication\\productapplication\\productapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|solutionrelative:productapplication\\productapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|d:\\api\\productapplication\\productapplication\\productapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|d:\\gitassesment\\codereview\\productapplication\\productapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|solutionrelative:productapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|d:\\api\\productapplication\\productapplication\\productapplication\\data\\applicationdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|d:\\gitassesment\\codereview\\productapplication\\productapplication\\data\\applicationdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|solutionrelative:productapplication\\data\\applicationdbcontex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|d:\\api\\productapplication\\productapplication\\productapplication\\controllers\\productdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|d:\\gitassesment\\codereview\\productapplication\\productapplication\\controllers\\productdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|solutionrelative:productapplication\\controllers\\productdbcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|d:\\api\\productapplication\\productapplication\\productapplication\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|d:\\gitassesment\\codereview\\productapplication\\productapplication\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|solutionrelative:productapplication\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|d:\\api\\productapplication\\productapplication\\productapplication\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|d:\\gitassesment\\codereview\\productapplication\\productapplication\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|solutionrelative:productapplication\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|d:\\api\\productapplication\\productapplication\\productapplication\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|d:\\gitassesment\\codereview\\productapplication\\productapplication\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{416F29EA-770C-460D-BCA2-BCC23895B141}|ProductApplication\\ProductApplication.csproj|solutionrelative:productapplication\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -60,11 +60,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\appsettings.json",
+              "DocumentMoniker": "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\appsettings.json",
               "RelativeDocumentMoniker": "ProductApplication\\appsettings.json",
-              "ToolTip": "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\appsettings.json*",
-              "RelativeToolTip": "ProductApplication\\appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "ToolTip": "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\appsettings.json",
+              "RelativeToolTip": "ProductApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-04T16:08:04.223Z",
               "EditorCaption": ""
@@ -73,9 +73,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\Repository\\ProductRepository.cs",
+              "DocumentMoniker": "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "ProductApplication\\Repository\\ProductRepository.cs",
-              "ToolTip": "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\Repository\\ProductRepository.cs",
               "RelativeToolTip": "ProductApplication\\Repository\\ProductRepository.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAiwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,9 +85,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "IProductRepository.cs",
-              "DocumentMoniker": "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\Repository\\IProductRepository.cs",
+              "DocumentMoniker": "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\Repository\\IProductRepository.cs",
               "RelativeDocumentMoniker": "ProductApplication\\Repository\\IProductRepository.cs",
-              "ToolTip": "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\Repository\\IProductRepository.cs",
+              "ToolTip": "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\Repository\\IProductRepository.cs",
               "RelativeToolTip": "ProductApplication\\Repository\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,9 +97,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "ProductDbController.cs",
-              "DocumentMoniker": "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\Controllers\\ProductDbController.cs",
+              "DocumentMoniker": "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\Controllers\\ProductDbController.cs",
               "RelativeDocumentMoniker": "ProductApplication\\Controllers\\ProductDbController.cs",
-              "ToolTip": "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\Controllers\\ProductDbController.cs",
+              "ToolTip": "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\Controllers\\ProductDbController.cs",
               "RelativeToolTip": "ProductApplication\\Controllers\\ProductDbController.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAiwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -109,9 +109,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\Model\\Product.cs",
+              "DocumentMoniker": "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\Model\\Product.cs",
               "RelativeDocumentMoniker": "ProductApplication\\Model\\Product.cs",
-              "ToolTip": "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\Model\\Product.cs",
+              "ToolTip": "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\Model\\Product.cs",
               "RelativeToolTip": "ProductApplication\\Model\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAiwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -121,9 +121,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ProductApplication.csproj",
-              "DocumentMoniker": "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\ProductApplication.csproj",
+              "DocumentMoniker": "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\ProductApplication.csproj",
               "RelativeDocumentMoniker": "ProductApplication\\ProductApplication.csproj",
-              "ToolTip": "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\ProductApplication.csproj",
+              "ToolTip": "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\ProductApplication.csproj",
               "RelativeToolTip": "ProductApplication\\ProductApplication.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -133,9 +133,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\Program.cs",
+              "DocumentMoniker": "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\Program.cs",
               "RelativeDocumentMoniker": "ProductApplication\\Program.cs",
-              "ToolTip": "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\Program.cs",
+              "ToolTip": "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\Program.cs",
               "RelativeToolTip": "ProductApplication\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -145,9 +145,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "ApplicationDBContex.cs",
-              "DocumentMoniker": "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\Data\\ApplicationDBContex.cs",
+              "DocumentMoniker": "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\Data\\ApplicationDBContex.cs",
               "RelativeDocumentMoniker": "ProductApplication\\Data\\ApplicationDBContex.cs",
-              "ToolTip": "D:\\API\\ProductApplication\\ProductApplication\\ProductApplication\\Data\\ApplicationDBContex.cs",
+              "ToolTip": "D:\\GitAssesment\\CodeReview\\ProductApplication\\ProductApplication\\Data\\ApplicationDBContex.cs",
               "RelativeToolTip": "ProductApplication\\Data\\ApplicationDBContex.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

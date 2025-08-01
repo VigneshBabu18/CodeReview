@@ -14,7 +14,17 @@ namespace ProductApi.Repository
 
         public IEnumerable<Product> GetAll() => _context.Products.ToList();
 
-        public Product GetById(int id) => _context.Products.Find(id);
+        public Product GetById(int id)
+        {
+
+            
+
+                return _context.Products.Find(id);
+            
+            
+           
+            
+        }
 
         public void Add(Product product) => _context.Products.Add(product);
 

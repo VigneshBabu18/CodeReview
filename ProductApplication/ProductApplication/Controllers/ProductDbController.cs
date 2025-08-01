@@ -19,7 +19,7 @@ namespace ProductApi.Controllers
         public ActionResult<IEnumerable<Product>> GetProducts()
         {
             return Ok(_repository.GetAll());
-        }
+        } 
 
         [HttpPost]
         public ActionResult<Product> CreateProduct(Product product)

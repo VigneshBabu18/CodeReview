@@ -1,0 +1,1 @@
+pRZD:\GitAssesment\CodeReview\ProductApplication\ProductApplication\ProductApplication.csproj¢net8.0òCSharp12
